@@ -25,12 +25,12 @@ if (isset($_POST['login'])) {
 
 		} else {
 
-			echo 'Gebruikersnaam met wachtwoord combinatie onbekend';
+			echo 'Gebruikersnaam-wachtwoord combinatie onbekend';
 		}
 
 	} else {
 
-		echo 'Gebruikersnaam met wachtwoord combinatie onbekend';
+		echo 'Gebruikersnaam-wachtwoord combinatie onbekend';
 	}
 }
 
